@@ -1,2 +1,3 @@
 # Daily Notes
 Configure Slack integration for build failure alerts
+Align error codes with internal and external standards
